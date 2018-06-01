@@ -12,5 +12,5 @@ Will my celebrity crush ever fall in love with me? Do aliens exist? Sometimes li
 
 ### Supported Learning
 
-- Einstein Prediction Builder (use this developer org [sign-up link](https://developer.salesforce.com/promotions/orgs/einsteinbuilder))
+- Einstein Prediction Builder (use this developer org [sign-up link](https://developer.salesforce.com/promotions/orgs/einsteinbuilder) and see [related Trailhead project](https://trailhead.salesforce.com/trails/get_smart_einstein/projects/prediction_builder)))
 - Process Builder
